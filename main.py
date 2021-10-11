@@ -59,4 +59,4 @@ async def enviarembed(ctx):
 
 #token
 
-client.run("ODk2OTY2MjE3OTYzNzk4NTI5.YWOy4w.W7mjNEpX8lH46fyUWrpodpRw8SY")
+client.run("SEU_TOKEN")
